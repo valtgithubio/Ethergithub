@@ -1,0 +1,7 @@
+cd path/to/your/repository
+git remote -v
+git remote set-url origin https://new-url-to-repository.git
+git remote -v
+cd path/to/your/repository
+git remote set-url origin https://github.com/username/new-repo.git
+git remote -v
